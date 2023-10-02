@@ -8,7 +8,7 @@
 ls -l /
 ```
 
-![image-20230719221948715](/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230719221948715.png#pic_left)
+![image-20230719221948715](../imgs/image-20230719221948715.png#pic_left)
 
 /
 

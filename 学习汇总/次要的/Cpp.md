@@ -1,8 +1,8 @@
 ### 构造函数运行的过程
 
-<img src="/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230820214822793.png" alt="image-20230820214822793" style="zoom:80%;" />
+<img src="../../imgs/image-20230820214822793.png" alt="image-20230820214822793" style="zoom:80%;" />
 
-<img src="/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230820214640440.png" alt="image-20230820214640440" style="zoom:80%;" />
+<img src="../../imgs/image-20230820214640440.png" alt="image-20230820214640440" style="zoom:80%;" />
 
 首先开辟栈空间
 
@@ -26,7 +26,7 @@
 
 其中-0x8($rbp)存储了&node
 
-<img src="/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230820220120063.png" alt="image-20230820220120063" style="zoom:80%;" />
+<img src="../../imgs/image-20230820220120063.png" alt="image-20230820220120063" style="zoom:80%;" />
 
 > 注：编译器是根据函数名查找虚函数表的
 >

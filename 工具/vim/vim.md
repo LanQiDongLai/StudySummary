@@ -43,7 +43,7 @@ vim file1 file2
 
 在命令模式中输入`:ls`会显示所有文件，再输入`:b3`即可切换文件到第三个文件
 
-<img src="/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230904212305235.png" alt="image-20230904212305235" style="zoom:80%;" />
+<img src="../../imgs/image-20230904212305235.png" alt="image-20230904212305235" style="zoom:80%;" />
 
 在命令模式下有以下指令
 
@@ -60,7 +60,7 @@ vim -O3 file1 file2 file3
 vim -o3 file1 file2 file3
 ```
 
-<img src="/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230904212805615.png" alt="image-20230904212805615" style="zoom:80%;" />
+<img src="../../imgs/image-20230904212805615.png" alt="image-20230904212805615" style="zoom:80%;" />
 
 移动光标详见[VIM分屏](#VIM分屏)
 
@@ -179,7 +179,7 @@ vim -o3 file1 file2 file3
 - `2,5`表示从第二行到第五行
 - 如果在可视模式下，切入到命令模式会自动补全为`:'<,'>`，表示当前选区
 
-<img src="/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230905093933723.png" alt="image-20230905093933723" style="zoom:80%;" />
+<img src="../../imgs/image-20230905093933723.png" alt="image-20230905093933723" style="zoom:80%;" />
 
 #### 替换标志
 
@@ -350,7 +350,7 @@ vim -o3 file1 file2 file3
 
   例如进入可视模式之后`i}`选中函数中的内容
 
-  <img src="/home/LanQiDongLai/.config/Typora/typora-user-images/image-20230905151445070.png" alt="image-20230905151445070" style="zoom:80%;" />
+  <img src="../../imgs/image-20230905151445070.png" alt="image-20230905151445070" style="zoom:80%;" />
 
 ### VIM宏录制
 
